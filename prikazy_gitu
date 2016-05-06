@@ -1,0 +1,13 @@
+doplniť iniciály a názov práce:
+príkazy: 
+$ git add .
+$ git commit -m "doplnen iniciály a názov práce"
+$ git status
+$ git push origin master
+
+doplniť anotáciu 
+príkazy:
+$ git add zoznam_prac.xhtml
+$ git commit -m "doplnená anotácia"
+$ git status
+$ git push origin master
